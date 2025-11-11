@@ -14,7 +14,7 @@ A passionate frontend developer from Indonesia
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)4
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
