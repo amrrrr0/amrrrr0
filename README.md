@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me">About Me</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-experience">Experience</a> •
   <a href="#-github-stats">Stats</a>
@@ -57,18 +56,18 @@
 
 ### 🚀 Projects & Experience
 *   **IoT Server Monitoring**: Dashboard berbasis Nuxt.js untuk monitoring suhu & tegangan server real-time via Telegram.
-*   **Full Stack Intern @ PDSI UMPKU**: Mengembangkan sistem manajemen kampus selama periode 2025-2026.
+*   **Full Stack Intern @ PDSI UMPKU**: Mengembangkan berbagai sistem manajemen selama periode 2025-2026.
 *   **Helpdesk @ Telkom Akses**: Berpengalaman dalam monitoring jaringan dan helpdesk operasional.
-*   **ZARYA Wear**: Pengembangan brand media kreatif dan pakaian.
+*   **MSIB AgroBumi**: Partisipasi dalam program Magang dan Studi Independen Bersertifikat (MSIB).
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amrrrr0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrrr0&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrrrr0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrrr0&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrrrr0&theme=tokyonight" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrrrr0&theme=tokyonight" alt="Streak Stats" />
 </p>
