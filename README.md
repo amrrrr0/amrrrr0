@@ -27,10 +27,3 @@ I am a passionate Full Stack Developer from Indonesia who loves building scalabl
 - ![aaPanel](https://img.shields.io/badge/aaPanel-FF6600?style=flat&logo=aapanel&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amrrrr0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrrr0&layout=compact&theme=tokyonight" />
-</p>
