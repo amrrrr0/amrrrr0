@@ -11,23 +11,8 @@
 
 <p align="center">
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-experience">Experience</a> •
-  <a href="#-github-stats">Stats</a>
-</p>
-
----
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhamrrrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/muh.amrrrr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:muh.amrrrr03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="#-projects--experience">Projects & Experience</a> •
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
@@ -55,19 +40,24 @@
 ---
 
 ### 🚀 Projects & Experience
-*   **IoT Server Monitoring**: Dashboard berbasis Nuxt.js untuk monitoring suhu & tegangan server real-time via Telegram.
-*   **Full Stack Intern @ PDSI UMPKU**: Mengembangkan berbagai sistem manajemen selama periode 2025-2026.
-*   **Helpdesk @ Telkom Akses**: Berpengalaman dalam monitoring jaringan dan helpdesk operasional.
-*   **MSIB AgroBumi**: Partisipasi dalam program Magang dan Studi Independen Bersertifikat (MSIB).
+
+*   **IoT-Based Server Room Monitoring System** (Thesis Project): Membangun sistem pemantauan suhu, kelembapan, dan tegangan menggunakan ESP32/Arduino yang terintegrasi dengan dashboard Nuxt.js dan notifikasi Telegram.
+*   **Full Stack Web Developer @ PDSI UMPKU**: Mengembangkan sistem informasi manajemen selama masa magang (Nov 2025 - Jan 2026).
+*   **Helpdesk & Monitoring @ PT Telkom Akses Solo**: Bertanggung jawab atas operasional unit helpdesk dan monitoring jaringan (Sep - Okt 2025).
+*   **MSIB AgroBumi**: Partisipasi aktif dalam program Magang dan Studi Independen Bersertifikat untuk pengembangan skill Web Developer.
+*   **Organizational Leadership**: Berperan aktif dalam media informasi pada organisasi kampus HIMATIF dan Badan Legislatif Mahasiswa (BLM).
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrrrr0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrrr0&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrrrr0&theme=tokyonight" alt="Streak Stats" />
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhamrrrr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/muh.amrrrr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:muh.amrrrr03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
